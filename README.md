@@ -12,7 +12,7 @@ This is a recreation of Pong on Windows Forms. It has multiplayer and solo modes
 
 ## Gameplay
 
-- (https://www.youtube.com/watch?v=QpX3KVFu1UY&t=32s)
+- [Video](https://www.youtube.com/watch?v=QpX3KVFu1UY&t=32s)
 
 ## Demonstration
 
